@@ -1,0 +1,146 @@
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-container > div {
+   margin: 0em;
+}
+
+.innerWrap
+{
+  display: inline-flex;
+}
+
+.header{
+  width: 100%;
+  height: 50px;
+  background: DodgerBlue;
+  box-sizing: border-box;
+}
+
+.header span b {
+  background: red;
+  color: #FFFFFF;
+  border-radius: 1em;
+  font-size: 1em;
+  position: relative;
+  right: 0.2em;
+  bottom: 0.4em;
+}
+
+.footer{
+  width: 100%;
+  height: 25px;
+  background: DodgerBlue;
+  box-sizing: border-box; 
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.header span {
+  float: right;
+  padding: 1em;
+  color:#FFFFFF;
+}
+
+.Cart_content{
+  display: inline-block;
+  padding: 1em;
+  line-height: 2em;
+  background: aliceblue;
+  border: 1px solid #CCC;
+  margin: 0.2em;
+}
+
+.Cart_content span{
+  color: green;
+}
+
+.filters{
+width: 20%;
+}
+
+.btn{
+  background: gold;
+  border-radius: 1em;
+  border: none;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.item_img img{
+  width: 150px;
+}
+
+.btn_a
+{
+  background: DodgerBlue;
+  border-radius: 1em;
+  border: none;
+  color: #FFFFFF;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.sorting ul {
+  display: inline-flex;
+}
+
+.sorting h4{
+  display: inline;
+  font-weight: bold;
+}
+
+.sorting ul li {
+  list-style-type: none;
+  padding: 0.5em;
+  color:gray;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.sorting ul li:active{
+  text-decoration: underline;
+  color: dodgerblue;
+}
+
+.sorting ul li:hover{
+  text-decoration: underline;
+  color: dodgerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
