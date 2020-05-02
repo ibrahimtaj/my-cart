@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-cart/static/css/main.36f87d4d.chunk.css",
+    "main.js": "/my-cart/static/js/main.2fd3a7b3.chunk.js",
+    "main.js.map": "/my-cart/static/js/main.2fd3a7b3.chunk.js.map",
+    "runtime-main.js": "/my-cart/static/js/runtime-main.8abaa8f0.js",
+    "runtime-main.js.map": "/my-cart/static/js/runtime-main.8abaa8f0.js.map",
+    "static/js/2.b3ed77bd.chunk.js": "/my-cart/static/js/2.b3ed77bd.chunk.js",
+    "static/js/2.b3ed77bd.chunk.js.map": "/my-cart/static/js/2.b3ed77bd.chunk.js.map",
+    "index.html": "/my-cart/index.html",
+    "precache-manifest.3a323d36783b820a89ef6c5af4527866.js": "/my-cart/precache-manifest.3a323d36783b820a89ef6c5af4527866.js",
+    "service-worker.js": "/my-cart/service-worker.js",
+    "static/css/main.36f87d4d.chunk.css.map": "/my-cart/static/css/main.36f87d4d.chunk.css.map",
+    "static/js/2.b3ed77bd.chunk.js.LICENSE.txt": "/my-cart/static/js/2.b3ed77bd.chunk.js.LICENSE.txt",
+    "static/media/laptop.jpg": "/my-cart/static/media/laptop.02ed288f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8abaa8f0.js",
+    "static/js/2.b3ed77bd.chunk.js",
+    "static/css/main.36f87d4d.chunk.css",
+    "static/js/main.2fd3a7b3.chunk.js"
+  ]
+}
